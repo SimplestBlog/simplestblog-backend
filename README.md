@@ -1,2 +1,2 @@
-# blog
-A simple blog created using .Net Core
+# simplestblog-backend
+A simple backend blog created using .Net Core
